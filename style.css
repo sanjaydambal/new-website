@@ -1,0 +1,49 @@
+body {
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+h1,h2{ 
+    margin: 0%;
+}
+#container {
+    background-color: whitesmoke;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    background-color: aqua;
+    margin: 0%;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+#content {
+    padding: 10px;
+}
+#nav {
+    width: 180px;
+    float: left;
+}
+#nav ul {
+    list-style-type: none;
+    padding: 0%;
+}
+.selected {
+    font-weight: bolder;
+}
+#main {
+    width: 600px;
+    float: right;
+}
+#footer { 
+    clear: both;
+    padding: 10px;
+    background-color: blue;
+    color: black;
+    text-align: left;
+}
